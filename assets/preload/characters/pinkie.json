@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pinkie left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pinkie down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pinkie up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pinkie right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "pinkie idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hello",
+			"loop": false,
+			"name": "pinkie hello"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "howdy",
+			"loop": false,
+			"name": "pinkie howdy"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "howyadoin",
+			"loop": false,
+			"name": "pinkie howyadoin"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "whatsup",
+			"loop": false,
+			"name": "pinkie whatsup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinkie",
+	"position": [
+		-150,
+		20
+	],
+	"healthicon": "pinkie",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		1,
+		3
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
