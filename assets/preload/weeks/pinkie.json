@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Smile",
+			"pinkie",
+			[
+				251,
+				1,
+				3
+			]
+		],
+		[
+			"Fun",
+			"pinkie",
+			[
+				251,
+				1,
+				3
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "pinkie",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "FUNKIN IS MAGIC!",
+	"weekName": "Pinkie Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
